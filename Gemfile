@@ -27,4 +27,3 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #theme
-gem 'jekyll-theme-hacker', '~> 0.0.4'
