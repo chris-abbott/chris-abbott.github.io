@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home Lab
-permalink: /projects/homelab/
+permalink: /home_lab/
 ---
 
 Eh?
